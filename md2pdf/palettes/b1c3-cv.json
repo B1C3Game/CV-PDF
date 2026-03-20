@@ -1,0 +1,17 @@
+{
+  "name": "B1C3 CV (GitHub Dark)",
+  "background": "#0d1117",
+  "foreground": "#c9d1d9",
+  "accent": "#58a6ff",
+  "muted": "#8b949e",
+  "fontFamily": "JetBrains Mono, monospace",
+  "headingWeight": 700,
+  "bodyWeight": 400,
+  "linkColor": "#58a6ff",
+  "codeBg": "#161b22",
+  "codeFg": "#7ee787",
+  "marginTop": 60,
+  "marginBottom": 60,
+  "marginLeft": 50,
+  "marginRight": 50
+}

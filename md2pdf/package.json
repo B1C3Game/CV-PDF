@@ -1,0 +1,19 @@
+{
+  "name": "md2pdf",
+  "version": "0.1.0",
+  "description": "Markdown to PDF converter for CVs and documents.",
+  "main": "src/index.js",
+  "bin": {
+    "md2pdf": "src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js"
+  },
+  "dependencies": {
+    "marked": "^11.0.0",
+    "puppeteer": "^24.15.0",
+    "inquirer": "^9.0.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
