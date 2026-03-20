@@ -7,15 +7,10 @@ Markdown to PDF converter for CVs and documents.
 
 1. Ensure all three JetBrains Mono font files (`JetBrainsMono-Regular.ttf`, `JetBrainsMono-Bold.ttf`, `JetBrainsMono-ThinItalic.ttf`) are present in the `fonts/` directory.
 2. Run `npm install` to install dependencies.
-
 3. Convert your Markdown file to PDF:
-
+    ```sh
     npx md2pdf your-cv.md
-
-    # Or, if you see an error, run this from the md2pdf directory:
-    node src/cli.js ..\your-cv.md
-
-> **Windows users:** Copy only the command line above (do not include the ```sh or ``` markers). Paste and run it directly in PowerShell or Command Prompt.
+    ```
 
 The tool will prompt for a palette if multiple are available. Output PDF will be generated in the same directory as your input file (unless otherwise specified).
 
@@ -51,7 +46,6 @@ You're basically using Chrome's print engine as your PDF generator. That's why t
 md2pdf/
 ├── README.md
 ├── package.json
-├── .gitignore
 ├── fonts/
 │   ├── JetBrainsMono-Regular.ttf
 │   ├── JetBrainsMono-Bold.ttf
