@@ -47,5 +47,3 @@ Status or progress.
 ---
 Written in Markdown for automation, portability, and ease of communication.
 PDFs are for sharing, Markdown is for working.
-
-PDF conversion tool: [github.com/B1C3Game/md2pdf](https://github.com/B1C3Game/md2pdf) (placeholder)
