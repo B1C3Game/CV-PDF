@@ -1,14 +1,18 @@
 # L-D Nordin
 
-[`contact@b1c3.dev`](mailto:contact@b1c3.dev) | [github.com/B1C3Game](https://github.com/B1C3Game) | LinkedIn
+[`contact@b1c3.dev`](mailto:contact@b1c3.dev) | [github.com/B1C3Game](https://github.com/B1C3Game) | [LinkedIn](https://www.linkedin.com/in/l-d-nordin-a2b6923b2/)
 
 ---
 
 ## About
 
-Systems thinker with cognitive science background. I build systems where abstractions align with how humans actually reason. Leadership experience managing production workflows, contracts, and cross-functional teams. Currently exploring multi-agent architectures and cognitive-driven design at scale.
+I build multi-agent systems that think the way your team thinks.
 
-What drives me: Accessibility, cognitive offloading, systems that reduce reasoning distance between intent and operation. Every design choice should be defensible.
+Systems thinker with cognitive science background. Proven ability to ship MVPs that integrate with real workflows (Slack, APIs, enterprise tools). Leadership experience managing production systems where reliability is non-negotiable. Currently exploring how constraint-driven semantic framing improves agent routing, recall, and synthesis integrity at scale.
+
+What I deliver: Systems that reduce reasoning distance between intent and operation. Every design choice is auditable and defensible.
+
+What I need: A platform where multi-agent workflows solve real problems for real teams. Short feedback loops. Immediate visibility into impact.
 
 ---
 
@@ -91,21 +95,15 @@ Structured exploration of ideas across domains: cognitive science, communication
 
 Impact: Methodology for structured thinking across domains.
 
-### monitor-zero-infinity
+### Multi-Agent Collab Test
 
-Numeric edge-case monitoring. Detects zero, infinity, and large number conditions in production systems.
+Distributed cognitive alignment in production. Founder (B1C3, Sweden) + Wijak (cloud AI) + Copilot (local machine) converge on a shared codebase with UID-attributed edits, auditable trust chains, and gate-enforced contributor agreements. B1C3 → Wijak (scaffold) → Copilot (build) → live deployment. Zero rework. Full traceability.
 
-[github.com/B1C3Game/monitor-zero-infinity](https://github.com/B1C3Game/monitor-zero-infinity)
+Features: Signature-chain verification, edit attribution, trust-config enforcement, async handoff protocol. Deployed to GitHub Pages.
 
-Impact: Solves a class of bugs most teams discover in production.
+[github.com/B1C3Game/multi-agent-collab-test](https://github.com/B1C3Game/multi-agent-collab-test) | [Live site](https://b1c3game.github.io/multi-agent-collab-test/)
 
-### 740-TIER-1
-
-Emergency vehicle platform specification. Volvo 740 base, turbo ethanol drivetrain, CNC-fabricated subframe, adaptive suspension. Capability-driven design, not parts lists.
-
-[github.com/B1C3Game/740-TIER-1](https://github.com/B1C3Game/740-TIER-1)
-
-Impact: Capability-driven spec. CNC fabrication partnership in progress.
+Impact: Proof that distributed multi-agent collaboration with auditable accountability works across geography, network boundaries, and agent types.
 
 Additional work: Private repositories spanning transliteration, cross-script communication, cognitive offloading, and agent configuration. Inquiries welcome.
 
